@@ -1,4 +1,0 @@
-How to run zap application
-
-
-- mvn clean install -DURL=<url_to_do_security_test>
