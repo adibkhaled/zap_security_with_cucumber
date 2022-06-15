@@ -1,6 +1,4 @@
+How to run zap application
 
-Please install ZAP in your PC
-Then clone the projects
-Run following command to execute
 
 - mvn clean install -DURL=<url_to_do_security_test>
